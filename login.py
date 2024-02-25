@@ -14,7 +14,7 @@ from success import SuccessDialog
 
 class Ui_Dialog(object):
     def setupUi(self, Dialog):
-        self.USERNAME = "natia30"
+        self.USERNAME = "natia3"
         self.PASSWORD = "natia123"
         Dialog.setObjectName("login")
         Dialog.resize(445, 469)
