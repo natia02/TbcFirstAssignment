@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TbcAcademy.iml" filepath="$PROJECT_DIR$/.idea/TbcAcademy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TbcLoginForm.iml" filepath="$PROJECT_DIR$/.idea/TbcLoginForm.iml" />
     </modules>
   </component>
 </project>
