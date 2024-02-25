@@ -6,3 +6,7 @@ venv/
 
 # Ignore any files in the "temp" directory
 temp/
+
+.idea
+
+_pycache_
